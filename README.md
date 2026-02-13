@@ -38,29 +38,29 @@ A complete, production-ready fintech banking platform built with React, featurin
 
 ```
 fintech-platform/
-├── public/                  # Static assets
+├── public/                          # Static assets
 ├── src/
-│   ├── components/          # Reusable components
-│   │   ├── Navigation.jsx   # Main navigation bar
-│   │   ├── StatCard.jsx     # Stat display cards
-│   │   ├── AccountCard.jsx  # Account cards
-│   │   └── TransactionItem.jsx  # Transaction list items
-│   ├── pages/              # Page components
-│   │   ├── HomePage.jsx     # Landing page
-│   │   ├── DashboardPage.jsx    # Main dashboard
-│   │   ├── TransactionsPage.jsx # Transactions view
-│   │   ├── CardsPage.jsx    # Card management
-│   │   └── InvestmentsPage.jsx  # Investment portfolio
-│   ├── data/               # Mock data
-│   │   └── mockData.js      # Sample financial data
-│   ├── App.jsx             # Main app component with routing
-│   ├── main.jsx            # App entry point
-│   └── index.css           # Global styles
-├── index.html              # HTML entry point
-├── package.json            # Dependencies and scripts
-├── tailwind.config.js      # Tailwind configuration
-├── postcss.config.js       # PostCSS configuration
-└── vite.config.js          # Vite configuration
+│   ├── components/                  # Reusable components
+│   │   ├── Navigation.jsx           # Main navigation bar
+│   │   ├── StatCard.jsx             # Stat display cards
+│   │   ├── AccountCard.jsx          # Account cards
+│   │   └── TransactionItem.jsx      # Transaction list items
+│   ├── pages/                       # Page components
+│   │   ├── HomePage.jsx             # Landing page
+│   │   ├── DashboardPage.jsx        # Main dashboard
+│   │   ├── TransactionsPage.jsx     # Transactions view
+│   │   ├── CardsPage.jsx            # Card management
+│   │   └── InvestmentsPage.jsx      # Investment portfolio
+│   ├── data/                        # Mock data
+│   │   └── mockData.js              # Sample financial data
+│   ├── App.jsx                      # Main app component with routing
+│   ├── main.jsx                     # App entry point
+│   └── index.css                    # Global styles
+├── index.html                       # HTML entry point
+├── package.json                     # Dependencies and scripts
+├── tailwind.config.js               # Tailwind configuration
+├── postcss.config.js                # PostCSS configuration
+└── vite.config.js                   # Vite configuration
 ```
 
 ## 🛠️ Installation & Setup
