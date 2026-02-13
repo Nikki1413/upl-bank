@@ -1,4 +1,4 @@
-# UPLBank - Modern Fintech Platform
+# UPL Bank - Modern Fintech Platform
 
 A complete, production-ready fintech banking platform built with React, featuring a beautiful UI, smooth animations, and comprehensive banking features.
 
